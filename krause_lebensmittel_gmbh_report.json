@@ -1,0 +1,17 @@
+{
+  "company": "Krause Lebensmittel GmbH",
+  "industry": "Food & Beverage",
+  "size": "175 employees",
+  "date": "2026-06-23",
+  "overall_score": 2.55,
+  "maturity_level": "Level 2 — Developing",
+  "description": "Some processes defined but inconsistently applied. Data use is reactive.",
+  "dimensions": {
+    "Data Infrastructure": 2.5,
+    "Process Standardisation": 3.25,
+    "Analytics Capability": 2.25,
+    "Human Factors": 2.5,
+    "Value Chain Integration": 2.25
+  },
+  "chart": "outputs/krause_lebensmittel_gmbh_radar.png"
+}

@@ -1,0 +1,11 @@
+company_name,industry,size,di_q1,di_q2,di_q3,di_q4,ps_q1,ps_q2,ps_q3,ps_q4,ac_q1,ac_q2,ac_q3,ac_q4,hf_q1,hf_q2,hf_q3,hf_q4,vc_q1,vc_q2,vc_q3,vc_q4
+Becker Metallbau GmbH,Manufacturing,85 employees,2,2,2,1,4,3,3,4,2,2,2,1,3,2,1,2,2,1,2,1
+Schneider Logistik KG,Logistics & Transport,210 employees,3,3,3,2,3,3,4,3,3,3,3,2,4,3,3,3,3,3,3,2
+Hoffmann & Partner GmbH,Professional Services,42 employees,4,3,4,3,4,4,4,4,4,4,4,4,4,4,4,4,3,2,3,3
+Weber Kunststofftechnik,Plastics Manufacturing,130 employees,2,2,2,2,3,2,2,3,2,1,2,2,2,2,2,2,2,1,1,2
+Richter Agrartechnik GmbH,Agricultural Machinery,55 employees,1,1,2,1,3,2,2,3,1,1,1,1,2,1,1,1,1,1,1,1
+Fischer Elektronik AG,Electronics,320 employees,4,4,4,3,4,4,5,4,4,3,4,4,4,4,4,3,4,3,3,4
+Krause Lebensmittel GmbH,Food & Beverage,175 employees,3,2,3,2,4,3,3,3,2,2,3,2,3,3,2,2,3,2,2,2
+Hartmann Haustechnik,Building Services,68 employees,2,1,1,1,3,3,3,3,1,1,2,1,2,2,1,1,1,1,1,1
+Braun Automotive Parts KG,Automotive Supplier,240 employees,4,4,4,4,5,5,5,4,4,4,4,3,5,4,4,4,5,4,4,4
+Zimmermann Software GmbH,IT Services,28 employees,5,4,5,4,4,4,4,5,5,5,5,5,5,5,5,5,3,2,4,3

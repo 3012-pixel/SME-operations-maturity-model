@@ -1,0 +1,17 @@
+{
+  "company": "Schneider Logistik KG",
+  "industry": "Logistics & Transport",
+  "size": "210 employees",
+  "date": "2026-06-23",
+  "overall_score": 2.95,
+  "maturity_level": "Level 3 — Defined",
+  "description": "Processes are documented and data is regularly collected. Insights starting to drive decisions.",
+  "dimensions": {
+    "Data Infrastructure": 2.75,
+    "Process Standardisation": 3.25,
+    "Analytics Capability": 2.75,
+    "Human Factors": 3.25,
+    "Value Chain Integration": 2.75
+  },
+  "chart": "outputs/schneider_logistik_kg_radar.png"
+}

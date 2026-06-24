@@ -1,0 +1,17 @@
+{
+  "company": "Braun Automotive Parts KG",
+  "industry": "Automotive Supplier",
+  "size": "240 employees",
+  "date": "2026-06-23",
+  "overall_score": 4.17,
+  "maturity_level": "Level 4 — Managed",
+  "description": "Data-driven decisions are standard. KPIs tracked proactively and linked to strategy.",
+  "dimensions": {
+    "Data Infrastructure": 4.0,
+    "Process Standardisation": 4.75,
+    "Analytics Capability": 3.75,
+    "Human Factors": 4.25,
+    "Value Chain Integration": 4.25
+  },
+  "chart": "outputs/braun_automotive_parts_kg_radar.png"
+}

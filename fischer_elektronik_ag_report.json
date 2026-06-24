@@ -1,0 +1,17 @@
+{
+  "company": "Fischer Elektronik AG",
+  "industry": "Electronics",
+  "size": "320 employees",
+  "date": "2026-06-23",
+  "overall_score": 3.81,
+  "maturity_level": "Level 4 — Managed",
+  "description": "Data-driven decisions are standard. KPIs tracked proactively and linked to strategy.",
+  "dimensions": {
+    "Data Infrastructure": 3.75,
+    "Process Standardisation": 4.25,
+    "Analytics Capability": 3.75,
+    "Human Factors": 3.75,
+    "Value Chain Integration": 3.5
+  },
+  "chart": "outputs/fischer_elektronik_ag_radar.png"
+}

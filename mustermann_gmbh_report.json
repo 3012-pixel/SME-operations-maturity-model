@@ -1,0 +1,17 @@
+{
+  "company": "Mustermann GmbH",
+  "industry": "Manufacturing",
+  "size": "120 employees",
+  "date": "2026-06-23",
+  "overall_score": 2.58,
+  "maturity_level": "Level 2 — Developing",
+  "description": "Some processes defined but inconsistently applied. Data use is reactive.",
+  "dimensions": {
+    "Data Infrastructure": 2.5,
+    "Process Standardisation": 3.5,
+    "Analytics Capability": 2.25,
+    "Human Factors": 2.75,
+    "Value Chain Integration": 1.75
+  },
+  "chart": "outputs/mustermann_gmbh_radar.png"
+}

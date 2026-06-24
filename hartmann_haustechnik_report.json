@@ -1,0 +1,17 @@
+{
+  "company": "Hartmann Haustechnik",
+  "industry": "Building Services",
+  "size": "68 employees",
+  "date": "2026-06-23",
+  "overall_score": 1.61,
+  "maturity_level": "Level 1 — Initial",
+  "description": "Processes are ad hoc and depend on individual effort. Limited data use.",
+  "dimensions": {
+    "Data Infrastructure": 1.25,
+    "Process Standardisation": 3.0,
+    "Analytics Capability": 1.25,
+    "Human Factors": 1.5,
+    "Value Chain Integration": 1.0
+  },
+  "chart": "outputs/hartmann_haustechnik_radar.png"
+}

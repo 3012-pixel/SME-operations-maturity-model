@@ -1,0 +1,17 @@
+{
+  "company": "Weber Kunststofftechnik",
+  "industry": "Plastics Manufacturing",
+  "size": "130 employees",
+  "date": "2026-06-23",
+  "overall_score": 1.96,
+  "maturity_level": "Level 2 — Developing",
+  "description": "Some processes defined but inconsistently applied. Data use is reactive.",
+  "dimensions": {
+    "Data Infrastructure": 2.0,
+    "Process Standardisation": 2.5,
+    "Analytics Capability": 1.75,
+    "Human Factors": 2.0,
+    "Value Chain Integration": 1.5
+  },
+  "chart": "outputs/weber_kunststofftechnik_radar.png"
+}

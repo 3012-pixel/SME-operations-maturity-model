@@ -1,0 +1,17 @@
+{
+  "company": "Zimmermann Software GmbH",
+  "industry": "IT Services",
+  "size": "28 employees",
+  "date": "2026-06-23",
+  "overall_score": 4.45,
+  "maturity_level": "Level 5 — Optimising",
+  "description": "Continuous improvement culture. Predictive analytics embedded in operations.",
+  "dimensions": {
+    "Data Infrastructure": 4.5,
+    "Process Standardisation": 4.25,
+    "Analytics Capability": 5.0,
+    "Human Factors": 5.0,
+    "Value Chain Integration": 3.0
+  },
+  "chart": "outputs/zimmermann_software_gmbh_radar.png"
+}

@@ -1,0 +1,17 @@
+{
+  "company": "Richter Agrartechnik GmbH",
+  "industry": "Agricultural Machinery",
+  "size": "55 employees",
+  "date": "2026-06-23",
+  "overall_score": 1.4,
+  "maturity_level": "Level 1 — Initial",
+  "description": "Processes are ad hoc and depend on individual effort. Limited data use.",
+  "dimensions": {
+    "Data Infrastructure": 1.25,
+    "Process Standardisation": 2.5,
+    "Analytics Capability": 1.0,
+    "Human Factors": 1.25,
+    "Value Chain Integration": 1.0
+  },
+  "chart": "outputs/richter_agrartechnik_gmbh_radar.png"
+}

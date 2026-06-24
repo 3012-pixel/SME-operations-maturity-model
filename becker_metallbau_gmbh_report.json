@@ -1,0 +1,17 @@
+{
+  "company": "Becker Metallbau GmbH",
+  "industry": "Manufacturing",
+  "size": "85 employees",
+  "date": "2026-06-23",
+  "overall_score": 2.11,
+  "maturity_level": "Level 2 — Developing",
+  "description": "Some processes defined but inconsistently applied. Data use is reactive.",
+  "dimensions": {
+    "Data Infrastructure": 1.75,
+    "Process Standardisation": 3.5,
+    "Analytics Capability": 1.75,
+    "Human Factors": 2.0,
+    "Value Chain Integration": 1.5
+  },
+  "chart": "outputs/becker_metallbau_gmbh_radar.png"
+}

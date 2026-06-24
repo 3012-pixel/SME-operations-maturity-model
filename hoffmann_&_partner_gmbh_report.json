@@ -1,0 +1,17 @@
+{
+  "company": "Hoffmann & Partner GmbH",
+  "industry": "Professional Services",
+  "size": "42 employees",
+  "date": "2026-06-23",
+  "overall_score": 3.71,
+  "maturity_level": "Level 4 — Managed",
+  "description": "Data-driven decisions are standard. KPIs tracked proactively and linked to strategy.",
+  "dimensions": {
+    "Data Infrastructure": 3.5,
+    "Process Standardisation": 4.0,
+    "Analytics Capability": 4.0,
+    "Human Factors": 4.0,
+    "Value Chain Integration": 2.75
+  },
+  "chart": "outputs/hoffmann_&_partner_gmbh_radar.png"
+}
